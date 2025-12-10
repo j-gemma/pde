@@ -1,0 +1,742 @@
+P22109 - Ft Meyer                                               15939.97
+10014 - US Air Force Restaurants                                 14884.3
+20048 - Athenaeum Hotel                                         13158.44
+18069 - Great Wolf Lodge - Perryville                           13148.72
+12043 - Arab Centre                                             12500.38
+17090 - GWCC Hotel                                              12098.39
+18056 - Loews - Coral Gables                                    11611.82
+18087 - Loews - Ocho Hotel                                      11335.16
+P22116 - Vanderbilt RCC                                         10010.76
+17104 - Great Wolf Lodge - Manteca                               9747.42
+17063 - Inn at Darden                                            9480.18
+8102 - Doha Airport Lounges (NDIA)                               9265.13
+17004 - Loews Kansas City                                        9196.35
+13031 - Hilton Norfolk Hotel                                     8831.93
+17011 - Plaza - El Paso                                          8455.22
+13104 - Universal Studios Hotel                                  8278.63
+P22120 - Vanderbilt Rothschild                                   7704.57
+18089 - Hilton Columbus                                          7695.37
+18090 - Tribute Lincoln Hotel                                     7647.6
+18003 - Hotel del Coronado                                       7369.29
+16085 - Hilton Bogota                                            7337.08
+19060 - JW Marriott - Dallas                                     7098.33
+7136 - Marriott Marquis                                          6313.86
+19067 - Midtown Union Hotel                                      5940.62
+18113 - Mattison Estate Senior Living                            5889.84
+20062 - Great Wolf Lodge - Poconos                               5542.71
+P22106 - PVCC                                                    5510.31
+15079 - AC-Moxy Atlanta                                          5361.98
+19003 - Lanier Island Conference Center                          5227.75
+16062 - Embassy Suites - VA Beach                                5153.52
+18007 - Marriott UNCC                                            5013.77
+13076 - Cuyahoga Hotel                                           4936.68
+14027 - Columbia Place Hotel                                     4786.03
+14056 - Loews Houston                                            4785.18
+13047 - Noel Place Hotel                                         4765.59
+15090 - Hyatt Place - Pasadena                                   4754.05
+14023 - Williamson St. Hotel                                     4693.57
+19038 - SeaGate Convention Centre                                4666.83
+18053 - Hyatt Place DTLA                                         4632.27
+16038 - Embassy Suites - Aruba                                   4559.03
+17034 - Charleston Hotel                                         4495.14
+4033 - Doha City Centre                                          4425.18
+16049 - Plaza Hotels                                              4405.3
+12070 - NDIA Airport City                                        4381.56
+4033C,D - Doha Submittal                                         4306.04
+18043 - Cottonwood Hotel - Omaha                                 4277.78
+14047 - Kimpton Charlotte                                         4136.1
+17086 - Solana Cranberry                                         4132.87
+14057 - Marriott Lancaster                                       4128.47
+11039 - Edition South Beach                                      4077.31
+14033 - Stateview Autograph Hotel                                4074.19
+17022 - Marriott VA Beach                                        3955.94
+9036 - PDSI-9                                                    3860.71
+22004 - Great Wolf Lodge - Poconos - Loose Moose                 3845.77
+P22114 - VA Tech Detrick Hall                                    3811.62
+11018 - Marriott Memphis                                         3725.28
+6031 - Renaissance Bahrain a                                     3682.89
+4033 - Doha City Centre a                                        3679.21
+5067 - Ritz-Carlton - DIFC                                       3639.15
+16053 - Marriott - Odessa Hotel and CC                           3558.18
+10020 - CY Pace                                                  3514.03
+7057 - JW Marriott Chicago                                        3240.2
+15033 - Washington Hilton                                        3175.46
+16016 - Parx - Events Center                                     3171.07
+14003 - Avalon Hotel                                             3168.46
+17047 - St Louis Live                                            3141.72
+14002 - Santa Maria Hotel                                        3074.52
+17020 - Texas Live                                               3068.71
+16088 - Allegro  - Harrington Park                               3067.35
+7017 - Traders Hotel Doha                                        3010.01
+14036 - Cooper City Assisted Living                              2969.76
+16072 - Farmington CC - Main Kitchen                             2950.61
+18110 - Marriott - Springfield, MA                               2942.41
+18013 - Arrott Hotel                                             2847.44
+17001 - Melody Lake in the Hills                                 2816.31
+P22127 - Veteran Care Center                                     2756.96
+16100 - Parx FOG                                                 2697.03
+8132 - IFC Cafeteria                                             2641.02
+10016 - CY Barcelo PDSI 11                                       2615.21
+18020 - Bartle Hall - Loews Kitchen                              2579.63
+12067 - Marriott HQ                                              2537.06
+16077 - Renaissance - Daytona Beach                              2531.25
+15068 - Monaco Hotel - Chicago                                    2485.4
+14022 - Loews Miami Beach                                        2475.39
+19051 - The Virginian Senior Living                              2441.19
+21065 - Loews Ventana - Bill's Grille                            2440.99
+13089 - AC Hotel Atlanta                                         2370.03
+19070 - CSH - Pascack (Washington Township)                      2346.95
+10043 - Sidra Hospital Doha                                      2328.51
+14082 - Embassy Suites - South Bend                              2323.89
+16040 - Loews Seattle                                            2282.91
+14045 - Farmington Country Club                                  2272.77
+18085 - AC - Bozeman                                             2251.79
+16042 - HGI - Camden                                                2239
+19008 - Baxter Senior Living - Jacksonville                      2195.69
+13042 - Solana - Deer Park                                       2151.65
+9097 - PDSI - 6                                                  2149.83
+16044 - Snowpine Lodge                                            2129.3
+15061 - Vail Cascade Resort                                      2117.92
+11037 - Residence Inn - Chicago                                  2101.65
+4104 - JW Marriot San Antonio Resort                             2094.32
+12087 - Ritz-Carlton Panama                                      2033.41
+19117 - Delaney at the Vale                                      2022.48
+P22108 - Army War College                                        1993.58
+17102 - Hotel Roanoke                                            1974.45
+14019 - Burke Lakefront Airport                                  1967.99
+15026 - Loews SF                                                 1966.88
+14054 - Calhoun Street Hotel                                     1926.69
+20010 - Heritage of Green Hills                                  1919.34
+15073 - Iowa Events Center                                       1862.14
+18070 - JW Marriott-St Regis - Houston                           1827.43
+9015 - FBI-TEDAC                                                 1827.35
+17044 - Arthrex Admin Building                                    1819.6
+5077 - JW Marriott Hacienda Pinilla                              1796.66
+13052 - Marriott Raleigh Crabtree                                1764.72
+17041 - Arthrex Hotel                                            1755.89
+10037 - CY Toronto                                               1742.46
+16029 - Backyard Burgers                                         1734.97
+5036 - Camp Humphreys FBEC                                       1714.26
+17019 - Gaylord National Harbor                                  1710.48
+17066 - CSH of Highland Park                                     1709.48
+10024 - Federal Reserve Board Renovation                         1669.08
+8058 - Northrop Grumman                                          1667.88
+3007ABCD - Auburn Student Center design                          1635.95
+17036 - Sage Riverview                                            1635.5
+11073 - Homestead Grill and Bar                                  1584.54
+18051 - RL Hotel - St. Louis                                     1575.65
+12050 - Citrix                                                    1574.7
+10009 - Rodino Fed Building                                      1574.29
+4074 - Camp Humphreys DFAC                                        1572.6
+4075 - Silver Diner Additional Project Work                      1569.31
+18079 - Delaney at the Green                                     1563.27
+16004 - CSH - Mt. Laurel                                         1527.74
+10019 - CY ZWAa                                                  1496.69
+18116 - AC - San Rafael                                          1481.56
+11094 - Hyatt Atlanta                                            1445.47
+17091 - Kensington Reston                                        1411.87
+19099 - Sheraton - Nashua                                        1407.62
+13051 - Vantage at City View                                     1403.95
+7164 - Marriott Gateway College Park                             1397.34
+13059 - Marriott Omaha                                           1393.28
+19017 - Hilton - Charlotte Conversion                            1374.47
+13096 - AC Westport                                              1367.71
+14021 - Meso Scale                                               1365.61
+16060 - Cap Juluca - Anguilla                                    1346.72
+10096 - Embassy Suites Springfield                                1340.9
+14048 - Waikiki Wave Hotel                                       1333.26
+13098 - CNU Regattas                                              1330.2
+15101 - AC Dublin                                                1297.69
+22023 - Plaza Hotel - La Perla                                   1282.29
+P22129 - ADF Ft Belvoir                                             1279
+10060 - CY Inland 3                                              1278.32
+16076 - SAGE - Atwater                                           1276.98
+10008 - CY Becker HPT - 9                                        1216.94
+16037 - Parx - Poker Bar                                          1216.6
+7085 - Potomac Yard Renaissance & Residence Inn                  1196.16
+16048 - JW Marriott - Buenaventura                               1192.88
+15072 - Oracle - Columbia                                         1171.3
+17076 - Melody Living - Colorado Springs                         1169.83
+18036 - AC Hotel - Kierland                                      1167.72
+15047 - VCU - Scott House                                        1167.56
+16054 - CSH - Greenburgh                                         1145.23
+7021 - Wilmington Conv Ctr                                       1143.75
+20041 - Lodge at Pinehurst                                          1142
+4104 - JW Marriott San Antonio Resort                            1132.24
+8105 - Marriott St Kitts                                         1128.65
+7023 - Milford Plaza Hotel                                       1121.43
+6100 - JW Marriott 73 Bogota                                     1114.93
+16018 - Loews - Coronado Bay                                      1111.8
+22037 - Loews Miami - Rao's                                      1111.06
+19045 - Alexandria Presbyterian Church                           1109.27
+12085 - Loews Regency                                            1075.07
+18046 - Exton PA Assisted Living                                 1069.02
+20004 - Twin Farms                                               1052.92
+14018 - TEDAC Cafe                                               1036.35
+16056 - Arbor Terrace Maple Lawn                                 1029.84
+12063 - Lord Baltimore Hotel                                     1007.87
+19110 - Atrium Village - Owings Mills                            1005.34
+7039 - W Atlanta Buckhead                                        1000.19
+18120 - HGI - DC                                                  992.39
+13062 - Crest Lane - UAE                                             968
+15040 - Doubletree Westborough                                    960.42
+15049 - Ritz-Carlton DC Restaurant                                943.51
+16080 - CSH - Glenview                                            941.02
+11038 - Edition London                                            934.31
+7073A - NMAH Main Cafe                                            933.94
+12095 - Autograph Key Largo                                       929.23
+13004 - Senior Star - Dublin                                      924.06
+13043 - Marlboro NJ Assisted Living                                921.3
+4006A - Dodson Replacement, WCU                                   916.75
+15095 - CSH - Naperville                                          908.16
+5027 - Liberty Station                                            903.37
+11057 - Hilton El Conquistador                                    890.48
+22070 - Sonesta Select                                            886.22
+15028 - Canopy Chicago                                            879.46
+17059 - One Preserve Parkway Cafe                                 879.05
+17014 - W and M Alumni House                                      872.37
+8077 - Ritz Bahrain - La Med                                      858.63
+20014 - AC - Dayton                                               857.55
+18045 - CSH - Marlton                                             849.37
+12015 - Homewood - L'Enfant Plaza                                 847.86
+10089 - CY Becker 3                                               837.86
+6011 - Applebee's R&D Kitchen                                     831.44
+13087 - Senior Star Kenwood                                       823.62
+13045 - Doubletree Toluca                                         802.45
+13092 - CY 34th Street                                            802.11
+17079 - Marriott Schaumburg                                       801.94
+13050 - Kensington of Falls Church                                798.02
+21062 - Ritz-Carlton - DC Update                                  787.98
+6114 - Swan Point                                                 766.33
+19015 - Conrad Nashville Hotel                                    764.45
+11068 - HGI - Times Square South                                  749.78
+11086 - Marriott Chicago                                          741.08
+14064 - AC - LGA                                                  739.29
+6076 - Nova Southeastern Univ RFP                                 728.64
+16017 - Loews - Hollywood                                         719.78
+11013 - US Embassy - NEC Nouakchott                               715.78
+7043 - HGI Palm Gardens                                           714.06
+8008 - Renaissance Club Sport Florham Park                        713.98
+15055 - Marriott Village Orlando                                  713.47
+16011 - Loews Ventana Canyon                                      712.51
+7058 - Hyatt Place, West Palm Beach                               709.82
+17005 - Benchmark of Woodbury                                     703.67
+6099 - Marriott Centro Empresarial Salitre                        699.01
+12076 - JW Marriott Buenaventura                                  697.96
+18029 - Cove - Eleuthera                                          689.89
+14040 - Solana - Vintage Park                                      684.9
+13080 - Quirk Hotel                                               680.51
+15076 - CSH - Mountainside                                        677.78
+12021 - CY Philadelphia Navy Yard                                 673.15
+P22122 - Warrenton Training Center                                670.45
+16020 - CSH - Waugh Chapel                                        668.38
+16021 - Benchmark of Smithtown                                    667.71
+10085 - Air Force Innovation                                      662.49
+12028 - JW Marriott Santo Domingo                                 659.45
+6096 - W Atlanta Colony Square                                    650.91
+18025 - Canopy - Rhode Island Ave                                 645.86
+12084 - Renaissance Jaragua                                        638.7
+17023 - Marriott Plano                                            637.44
+10021 - Marriott Guyana                                           634.47
+7020 - Marriott Macon Convention Center                           630.35
+22071 - Plaza Coral Gables Cafe                                   621.13
+22049 - Pinehurst Ryder Cup                                       617.09
+7030 - Swissotel Chicago                                           610.3
+12068 - Sheraton Cypress Creek                                    608.82
+18010 - Worman's Mill Assisted Living                             607.39
+14063 - CSH of Andover                                            606.89
+17068 - Warrenton Assisted Living                                 604.58
+7100 - US Capitol House+Senate Kitchens Study                     604.01
+12099 - Loews Philadelphia                                        600.41
+13041 - Loews Boston                                              598.75
+11050 - Foundry United Methodist                                  576.11
+10044 - Fogo Island Resort                                        574.91
+15093 - Loews MB - Pool Kitchen                                   569.58
+21087 - Center for Global Health Innovation                       567.82
+8052 - Intercontinental Guatemala                                 560.43
+14004 - Doubletree Veracruz                                       553.61
+8001 - Renaissance Panama                                         541.24
+4063 - Raleigh CC Hotel                                           540.98
+14075 - Medimmune Phase 2                                         539.02
+6055 - Rathskeller - Univ of Miami                                536.74
+7117 - Riffa Views Club                                           536.21
+P22090 - Kutztown University                                      532.06
+15007 - Spring Arbor Crofton                                      531.89
+13068 - Marriott Beverly Hills                                    531.25
+19089 - La Bahia Hotel                                            527.97
+18028 - Arthrex Wellness Center                                   526.24
+12039 - Marriott DFW                                              519.03
+16028 - Washington  Court Hotel                                   514.98
+13060 - MedImmune Phase 1                                         510.17
+10052 - Homestead Pool Grill                                      498.64
+19036 - Marriott Minneapolis                                      498.29
+15019 - Wyndham Hunt Valley Pub                                   488.51
+12073 - Arbor Terrace of Fairfax                                  487.55
+9082 - Kutztown U. Equipment Eval                                 487.24
+4034 - Jet Blue                                                    484.2
+7059 - Penn College of Technology                                  478.3
+15004 - Embassy Suites - Ft Meyers                                466.89
+8101 - Purdue University Kitchen Study                            466.56
+6029 - San Juan Marriott                                          461.39
+11033 - Medimmune                                                 461.35
+13028 - Marriott Metairie                                         460.56
+13016 - Turkey Run Residence                                      459.69
+4062 - Renaissance Boston                                         457.84
+12034 - Houstonian                                                450.76
+7163 - Marriott Copley                                            449.04
+15030 - Sheraton Needham                                           445.7
+11047 - Univ. of MD Baltimore                                     445.22
+13034 - Hunt Valley Inn                                           444.12
+14039 - Venable                                                   443.09
+5042 - Al Waab                                                    442.41
+10023 - CY Philadelphia                                           436.75
+19103 - Tides Inn - Chesapeake                                    436.35
+15066 - Loews - NY Employee                                       416.04
+21009 - Cambria - New Haven                                       415.51
+17103 - NOPSI Hotel                                               409.11
+18122 - Tides Inn - Commodores                                    408.63
+16097 - Ritz Carlton DC                                           406.94
+12053 - CY Boston Tremont                                         404.03
+15034 - Loews New Orleans                                         400.63
+12030 - Hilton Albany                                             400.39
+17051 - CY Flagstaff                                              395.52
+18039 - Sage of Hudson                                            394.73
+11059 - Homestead Spa Garden Bar a                                390.71
+19071 - South Seas Island Resort                                  383.41
+15081 - Loews Miami Pool Bar                                      383.01
+23004 - Loews Hollywood - Kitchen                                 378.57
+14083 - Morris Plains NJ Assisted Living                          378.43
+17096 - Hammock Beach Resort                                      375.89
+13088 - Bridges at Warwick                                        375.22
+16087 - CSH - New City                                            372.79
+17078 - Two Rivers Country Club                                   371.45
+17065A - Maryland Live                                            368.39
+16002 - CSH - Norwood                                             368.13
+22072 - Virginia Capitol Visitors Center                          365.57
+11060 - Marriott West Des Moines                                  356.77
+13029 - Loews Madison                                             354.22
+11016 - CY Quad Cities                                            352.03
+19079 - Sunrise - Bedford Court                                   351.34
+15094 - Loews - O'Hare                                            348.59
+15091 - RI - Walnut Creek                                         347.31
+8047 - NSU Rosenthal Design                                       346.37
+10018 - Renaissance Newark                                        346.29
+13069 - Marriott Bridgewater                                      342.88
+14029 - Loews Minneapolis                                         341.75
+7118 - WinStar Hotel                                              332.04
+12009 - Marriott Charleston                                       331.79
+12009 - Marriott CharlestonA                                      330.89
+8076 - Courtyard San Pedro Sula                                   328.01
+19042 - Towneplace - Miramar Beach                                325.44
+23010 - Marriott Marquis - Beercraft                              322.91
+22046 - Loews Corporate Office                                    321.83
+5007 - BWI Silver Diner                                           320.41
+13010 - CY Ft Lauderdale                                          319.87
+19088 - Odawa Casino                                              317.82
+19025 - Parx - EDR redesign                                       316.23
+7116 - Marriott Metro Center                                      314.59
+12005 - Willistown                                                313.28
+11054 - Capital Hilton Lobby Bar                                  313.02
+21050 - Holiday Inn - Solomons                                    312.18
+11090 - Homestead Casino                                          309.13
+14007 - Verisign                                                  308.11
+7115A - Foley & Lardner                                           307.21
+7006 - Embassy Suites - Jacksonville                              306.73
+P23038 - UNCC Prospector                                          303.12
+10046 - Italian Shirt Laundry                                     300.51
+11053 - Marriott Grand Cayman                                     298.33
+17037 - St. Alban’s Annandale                                     296.13
+6095 - W&L Center for Jewish Life                                  296.1
+P23001 - W&M Catering Kitchen                                     293.46
+P24020 - NYIT - Jericho Dorm                                      293.17
+8024 - Courtyard Prototype                                        291.17
+5015 - Boar's Head Inn                                            289.54
+19072 - Centennial Yards                                          281.04
+12042 - Senior Star - Wexford                                     277.79
+17092 - Hilton Nassau                                             262.18
+10015 - CY Dulles Town Center                                     253.47
+13017 - Marriott Wardman Park                                     245.82
+17007 - Farmington Bar                                            243.53
+10034 - Capital Hilton                                            242.63
+7001 - Renaissance Stanford Court                                 241.25
+4095 - HGI - Waltham Burlington                                   241.06
+12010 - CAC 1-880                                                 239.15
+6111 - NSU Lower School                                           236.94
+11097 - Marriott Nashville Airport                                235.92
+24018 - Princess Mt. McKinley Lodge                               232.01
+15092 - Ritz DC - Employee Dining                                 231.38
+7002 - Hyatt Capitol Hill                                         230.96
+10036 - Chicago Marriott Suites OHare                             222.81
+12065 - Hyatt Place - Flushing                                     222.7
+16003 - CSH - Shrewsbury                                          222.31
+4029 - US Capitol Visitor Center                                  215.72
+6067-H NAC Buildings #4 and 14 Design Build                       215.44
+10027 - Marriott Dulles                                           214.72
+8130 - Silver Diner Rockville a                                   214.42
+4006 - Western Carolina University master planning                211.81
+5028 - Costa Rica Marriott                                        211.36
+12023 - Montclair Assisted Living                                 209.96
+11048 - HGI Burlington                                            207.62
+14074 - Ritz-Carlton DC                                           205.46
+11010 - Marriott Towson                                            199.9
+7040 - Avery Fisher Hall                                          198.06
+10082 - RI - Clear Lake, TX                                       196.18
+4104 - JW Marriott San Antonio Resort a                           195.44
+12066 - The Bolger Center                                         193.55
+18074 - DC Jewish Community Center                                189.35
+12040 - Marriott Monterey                                         187.28
+15062 - Parx - Grill                                              183.74
+3001 - Hilton BWI                                                 183.24
+15017 - Loews Don CeSar                                           182.51
+6109 - Dixie Bones Restaurant                                     180.37
+9031 - Marriott East Side                                         178.51
+13018 - Baltimore City Public Schools                             176.76
+15025 - Medimmune Master Plan                                     173.16
+6121 - Ritz Bahrain RC2                                            171.3
+12051 - Silversmith Hotel                                         171.28
+7019A - Carroll Community College RFP                             169.82
+23047 - Racino Building                                           169.15
+11058 - CY Secaucus                                               168.58
+6026 - Chima Philadelphia                                         167.23
+5075 - Dulles Tier 2 Concourse                                    167.14
+6021 - Wardman Park Hotel                                          164.3
+17038 - Parx - Employee Dining                                    164.17
+6027 - HGI DC                                                     162.39
+4079 - Overlook Farms                                             161.92
+4079 - Applecross                                                 161.92
+4102 - Chima Restaurant                                            161.8
+15020 - Fairfield - Columbus                                       160.3
+5020 - ABC Renovation                                             156.88
+7010 - La Posada Hotel                                            153.56
+7128 - HOR & Capitol Hill Renovations                             152.62
+15009 - Hyatt Centric Empire Hotel                                151.42
+5009 - MOS Renovation                                             150.06
+22065 - Antique Barn Bar                                          148.18
+11052 - RI Columbia                                               147.53
+14050 - Sheraton Suites Plantation                                146.61
+15098 - Hyatt Regency Bethesda                                    144.76
+10022A - NCCU Ongoing Assistance                                     144
+11046 - Renaissance Lodge at Sonoma                               143.92
+17021 - Loews Chicago                                             142.18
+15085 - Loews Philadelphia EDR                                    139.04
+6082 - Univ of Miami Alumni Center                                138.32
+18111 - Oak Health - Fitness Center                                  136
+17064 - Raleigh Iron Works                                        134.73
+13049 - Turnberry Tower                                           131.13
+17084 - Parx - Earl Of Sandwich                                   129.08
+21076 - Marriott VA Beach - Bar                                   128.81
+15016 - Marriott San Juan                                         128.14
+5087 - Sheraton Arlington Heights                                  127.8
+20052 - Loews Hollywood - Kitchen                                    127
+15027 - HGI Miami                                                 126.63
+8007 - Royal Norwegian Embassy                                    121.25
+8006 - Ramada Inn - Rockville                                     121.04
+7102 - Riffa Views School                                         116.38
+22007 - Good Spirit Farm                                          115.48
+4099A - Redo Captain's Cove                                       114.43
+20037 - Vantage at Cityview Bistro                                 113.1
+4094 - GSA Central Off Hqtrs. ops eval                            112.88
+13037 - Fishermans Wharf                                          112.22
+17006 - Biery-Witt Center                                         112.18
+5018B - Seton Hall Design                                         110.31
+6064 - Congressional Conference Center                             109.7
+9060 - CY Trinidad                                                106.19
+6003 - Windsor Court Hotel                                        105.44
+4084 - ABC RFP                                                    103.16
+22068 - Loews Miami - Sushi Bar                                   103.02
+5018A - Seton Hall School of Law RFP                               99.41
+4008 - LAMB School                                                  98.3
+20023 - Reverb - Kitchen                                           97.91
+15067 - CY Riverwalk Laundry                                       97.17
+4038 - Opus Entertainment                                          96.05
+5048 - IAD-DCA Study                                               94.02
+19031 - Expert Witness - Lighthouse Bistro                         93.69
+22082 - Sarasota Mixed Use                                         92.95
+18091 - Parx Banquet Redesign                                      92.03
+13033 - Cambria Suites                                             91.67
+10049 - Marriott San Juan Lobby Bar                                91.01
+21029 - Hyatt Place - Flushing                                     90.87
+12031 - Marriott Omaha                                             90.25
+11075 - Marriott San Juan - Casino                                 89.46
+4039 - Au Bon Pain at The Castle                                   87.35
+6009A - Sacramento Readiness Ctr                                   87.26
+6067A - NAC RFP                                                    87.12
+11030 - RI Bethesda                                                85.46
+6110 - NSU Upper School                                            85.05
+6092 - JW Marriott San Fran                                        83.47
+11009 - Renaissance Savery Hotel                                   81.56
+5002 - Ritz-Carlton DIFC                                            78.6
+12026 - Sunrise Frederick                                          78.49
+6012 - Marriott New Orleans                                        77.92
+5024 - HGI Arundel Mills                                           77.66
+11003 - CY Toluca                                                  76.22
+5051 - Univ of Miami Retail Study                                  76.17
+14052 - Carolina Inn                                               76.07
+4022 - E Quad Cafe                                                 75.88
+7063 - Cafe Assorti                                                75.52
+6117 -Metro                                                        73.18
+6032 - Kunsan Airbase                                              72.92
+14070 - Roanoke Restaurant                                         70.69
+13002 - CY Connecticut Ave                                         70.12
+5044 - Courtyard-Seminary Road                                      68.8
+8078 - JW Marriott Cuzco                                           68.52
+9008 - Northrop Grumman West Quest C                               65.82
+19091 - Loews - Vanderbilt                                         65.33
+12083 - RI - Boston Westborough                                    64.85
+15064 - Torrance Assisted Living                                   64.43
+11035 - Camp Humphreys CAC a                                       64.38
+3007 - Auburn University Student Center                            63.68
+5057 - Hay Adams Renovation                                        62.21
+3034 - Griffin Gate Marriott                                       62.19
+13026 - Senior Star - Westpark                                     61.27
+11024 - Marriott Des Moines                                        61.18
+11017 - Camp Humphreys MWR                                         61.16
+16091 - CNB Restaurant                                             59.94
+11041 - JW Marriott Mexico City                                    59.78
+6007 - Luce Center & Portico Cafe                                  59.73
+8058B - NG-GSI Contract Compliance                                 59.68
+6004 - Horseshoe Bay Marriott                                      59.65
+23005 - Marriott Hotel Standards - Updates                         58.98
+4016 - Hilton Garden Inn                                           58.71
+7026 - Wardman Lobby Bar                                           58.13
+5017 - St Regis Hotel                                              57.78
+18022 - Gaylord National - Galaxy Diner                            57.16
+4037E - Embassy Suites Restaurant Redesign                         56.91
+4090 - Gerber Products                                             54.36
+6115 - Hyatt Dulles Bar Reno                                       53.59
+8067 - JW Marriott Houston                                         52.63
+4037B - Marriott W-S - New Restaurant                              52.35
+14053 - Villa Ventura                                              52.23
+P23008 - Morgan State University Baltimore                         52.15
+6034 - Casa Sierra Nevada                                          51.87
+6041 - Ritz Lake Tahoe                                             51.07
+5030 - Ft. Irwin Community Center                                  50.55
+5076 - AICPA HQ                                                    49.94
+6014 - Ritz-Carlton Al Sharq                                       49.37
+12027 - HUD RFP                                                    49.23
+4076 - PHH- Jacksonville                                           49.16
+18016 - Loews Regency - Cooking                                    48.21
+8069 - JW Marriott Coco Beach                                      47.96
+12022 - UVA Childcare Center                                       46.73
+4018 - Montpelier Visitor's Center                                  45.6
+4096 - Staff Cafe & kitchen at Castle                              44.96
+16045 - Parx Green Room                                            43.83
+7003 - Marriott Puerto Vallarta                                     42.7
+9012 - CY Boca Raton                                               42.42
+6058 - Chinese Church                                              41.35
+18061 - Reverb Hotels                                              41.28
+6034B - CSN Ops Center                                             41.27
+9091 - Reynolds Building                                            40.6
+4037D Embassy Suite New Restaurant                                 40.35
+5044A - Courtyard Seminary Road Kitchen                            40.01
+11029 - RI - Pentagon City                                         39.77
+8028 - YMCA RFP                                                    37.51
+4037 - Marriott Winston-Salem - General                            36.13
+10056 - Marriott Santiago                                          35.43
+10084 - Air Force Financial Tracking                               34.91
+23070 - MCPL Culinary Center                                       34.61
+14049 - Loews 5th and Brazos Hotel                                 34.49
+6015 - AICPA DC                                                    34.33
+9064 - Spring Hill Suites                                          33.92
+7009 - Renaissance Sao Paulo                                        33.5
+6020 - Holiday Inn-Chevy Chase                                     32.74
+7117 - Riffa Views Club a                                          32.22
+4056 - Woodrow Wilson School Cafe                                  31.84
+6009 - Sacramento Readiness Ctr                                    31.57
+6067G NAC BLDG 14 TEMP                                             31.23
+5013 - Harvard Medical School RFP                                   31.1
+11082 - Marriott Haiti                                             29.18
+5054 - Smith College study                                         28.93
+P22104 - Concordia College                                          28.3
+11069 - Marriott Suites Bethesda                                   26.99
+10047 - Italian Cinema                                             25.94
+21005 - Sheraton - Loews - Memphis                                 25.12
+12077 - Hilton Cabana                                              24.78
+16095 - Tryon Equestrian Center                                    24.45
+18058 - CY - Port of Spain - Walk-ins                              24.14
+9003 - Northrop Grumman Master Plan                                23.67
+6062 - Bulgari Paris                                               23.08
+8058A - Northrop Grumman Transition Assistance                     22.67
+13056 - CY Santiago Chile                                          22.48
+6076C - Rosenthal Catering Kitchen Design                          22.41
+8125 - CY Leon                                                     21.35
+3021 - University of West Florida                                  21.33
+11074 - Hilton Bar Prototype                                       20.97
+9079 - CY - Middletown,NY                                          20.81
+6067 - GSA NAC Study                                               20.81
+14078 - Marriott Juice Bar                                         20.52
+13023 - CY Columbia                                                19.96
+10068 - NG Plaza,ATL,WQB                                           18.82
+14005 - AC Panama                                                  18.51
+5085 - Tennis Center of CP                                         18.42
+7093 - MEA Al Yaquob Tower                                         18.21
+14071 - Fairfield - San Salvador                                   17.53
+16061 - O Street Hotel                                              17.3
+9029 - NSU Financial Review                                        16.95
+6072 - NMAH Cafe                                                   16.31
+8112 - Macy's                                                      15.83
+5053 - Macy's                                                      15.45
+12038 - Reflections - Senior Living                                15.17
+9067 - CY San Juan                                                 14.99
+4002 - Central Park Zoo                                            14.85
+11072 - Howard CC RFP                                               13.8
+12079 - Ritz-Carlton Design Standards                              13.75
+23048 - Innovation Campus                                          13.44
+11099 - CY Basking Ridge                                           12.88
+P22091 - Virtua Health                                             12.63
+4004 - Gaston County Nutrition Center study                        11.73
+7135 - RCH Design Standards                                        10.77
+11085 - Cabana on Collins                                          10.65
+10058 - Indigo Ft. Myers                                           10.55
+7089 - Winterthur Museum & Garden                                  10.43
+4097 - Univ of North Florida Student Union programming              9.77
+13011 - CY Queretaro MX                                             9.76
+8092 - Edition - Barcelona                                          9.61
+7146 - CY Mexico City                                               9.49
+8022 - Morven Fun Barn                                              9.39
+10004 - Single Station Bar                                          9.37
+7142 - Ritz-Carlton Dubai                                           9.08
+10079 - CY Mexico City Apt                                          9.06
+5049 - Santiago CY                                                  8.87
+3002 - Strathmore                                                   8.81
+3036 - Hershey Lodge                                                8.42
+6037 - Ritz Vienna                                                  8.36
+9049 - Sauca Restaurant Prototype                                   8.12
+6043 - Renaissance La Castellana                                    8.07
+4067B - HBS Kresge Bldg Cad work                                       8
+14014 - HGI Coatzacoalcos                                           7.92
+6091 - Motor City Review                                            7.89
+6013 - Meriwether Godsey, Inc                                       7.52
+4030 - USTA, Aces Restaurant                                        7.43
+9024 - Carolina Inn                                                 7.29
+13100 - RI Europe                                                   7.23
+3028 - Hershey Hotel                                                6.91
+5058 - Sony Ericsson Corporate HQ                                   6.84
+4037A Marriott Concierge Lounge                                     6.83
+13075 - Destin Sands Resort                                          6.6
+12086 - Marriott Santiago                                           6.51
+5060 - San Salvador CY                                              6.49
+7019 - Carroll Community College                                    6.33
+16006 - Jewish Community Center                                     6.28
+8088 - Edition - Waikiki                                            6.25
+3016 - CY Prague                                                    6.21
+5046 - Marriott Los Suenos                                          5.99
+8060 - Metro Charlottesville                                        5.91
+5013A - Harvard Med School hourly consultation                      5.86
+10007 - Kutztown Univ. RFP Assist                                   5.83
+6074 - Marriott Twickenham                                          5.82
+4092 - Nick & Stef's                                                5.36
+3012 - MEA Sao Paulo                                                5.22
+14010 - Doubletree Del Mar                                          5.13
+5032 - San Jose Courtyard                                           5.07
+7129 - Marriott Reforma                                             5.06
+3009 - Univ of Miami contract benchmarking study                    5.02
+16089 - Manoukian Center                                            5.01
+9041 - World Bank Dish Conveyor Replacement                         4.94
+3052 - George Mason Univ. Northeast Sector mkt. + program study     4.83
+10002 - Howard Comm. College                                        4.79
+7018 - Univ of Miami resident dining review                         4.77
+5013B - HMS Semi-Annual Ops Review                                   4.7
+4044 - Jamestown Settlement Contract Assistance                     4.68
+4066 - Museum of Science Boston                                     4.66
+8088 - Edition - Honolulu                                           4.64
+8005 - Convenience Store                                             4.6
+3047 - Naples 45                                                    4.39
+4057 - Costa Rica Marriott Hotel                                    4.37
+5063 - Dubai Central Laundry                                        4.25
+10083 - RI Guayaquil                                                3.88
+4029 - US Capitol Visitor Center RFP                                3.86
+4067A - HBS Kresge Bldg                                             3.85
+4059 - Marriott Design Standards                                    3.65
+7147 - Kutztown University                                          3.52
+4054 - Courtyard Galway                                             3.42
+3044 - USTA New Commissary                                          3.39
+3040 - Bethesda Suites Marriott                                     3.29
+10075 - McAllen Airport                                             3.23
+12024 - CY Kingston Jamaica a                                       3.07
+23041 - Bread & Butter Restaurant                                   3.05
+8057 - Frenchman's Reef Hotel                                       2.91
+4032 - USTA, New concessions                                        2.89
+9011 - CY San Jose Airport                                          2.89
+11095 - Marriott Standards                                          2.85
+3041 - BWI A-B Study                                                2.69
+4006B - Western Carolina Univ catering study                        2.59
+3045 - Bear Stearns                                                 2.58
+6071 - CY Isla Verde                                                2.57
+4028 - San Juan Marriott Resort                                     2.51
+4067 - HBS Kresge Building                                          2.47
+12045 - Residence Inn - Linthicum                                   2.21
+7082 - CY Guayaquil                                                 2.11
+4037C Marriott-Kitchen Repairs                                      2.11
+3005 - Jefferson Medical College                                    2.04
+3003 - Univ of Miami RFP services                                   1.96
+7081 - Nickelodeon Hotel                                            1.96
+4024 - Aruba Marriott Resort                                        1.89
+6076D - NSU Meal Plan Study                                         1.86
+6044 - Marriott Playa Grande                                        1.86
+4020 - JW Marriott Santo Domingo                                    1.85
+20012 - Maple Leaf Inn                                              1.82
+12019 - Ritz Carlton Grand Cayman                                   1.81
+8019 - Air & Space Museum Cafe                                      1.72
+8019 - Air & Space Museum Cafe a                                    1.72
+13103 - Loews Boston - Kitchen                                      1.64
+4036 - Ritz-Carlton, Washington, DC                                 1.62
+8012 - Silver Diner Metro Bethesda                                   1.6
+9080 - CY Newark                                                     1.6
+3013 - Univ of North Florida contract assistance                    1.59
+6061 - Ritz Tuscany                                                 1.49
+4046 - Johnstown House                                              1.41
+7079 - RDU Concessions                                              1.41
+3013 - Univ. of North Florida contract assistance                   1.37
+4049A - Bethesda Suites Marriott Buffet                             1.32
+13063 - CY Bogota Calle 26                                          1.23
+4010 - HSBC                                                         1.18
+14068 - AC Miami                                                    1.16
+5054 - Smith College ops study                                      1.11
+3004 - State Dept                                                   1.08
+10059 - CY Metromall                                                1.06
+8058C - NG Auditing                                                 1.05
+3040A - Bethesda Suites Marriott Redesign                           1.04
+11002 - CY Hermosillo                                               1.01
+11077 - Fairfield - Los Cabos                                       1.01
+10011 - CNU - Freeman Center                                        0.99
+4073 - Marriott CY Panama                                           0.97
+9059 - CY Barbados                                                  0.96
+7099 - Courtyard Suriname                                           0.95
+7119 - Residence Inn San Jose                                       0.94
+9023 - Hotel Clarence                                               0.93
+4049 - Bethesda Suites Marriott Fixed Buffet                        0.93
+9071 - GSA Parklawn Replacement                                     0.93
+3046 - Henry Ford Estate study                                      0.86
+21075 - Vibrissa Kitchen                                            0.81
+6106 - Berea College                                                0.76
+13091 - Marriott Standards 2013                                     0.67
+19030 - Cove - Eleuthera (Hourly)                                   0.46
+9042 - Founding Farmers Patio                                       0.35
+13035 - Marriott Sortis Hotel                                       0.34
+4045 - Swissotel Chicago                                            0.27
+6088 - Westin Tabor Center                                          0.26
+18030 - Embassy Suites - Winston-Salem, NC                          0.21
+5034 - Atlanta Marquis                                              0.21
+12016 - Marriott Los Cabos                                          0.17
+12098 - Marriott Design Standards 2012                              0.16
+5061 - Courtyard Trinidad                                           0.16
+10064 - FASTC                                                       0.14
+3038 - Doha Renaissance Hotel                                       0.14
+3039 - Marriott Courtyard Doha                                      0.14
+6067-F NAC Building #5                                               0.1
+5004 - JW Marriott Palm Island                                      0.08
+5005 - Renaissance Mall of the Emirates                             0.08
+4025 - Renaissance Moscow Hotel                                     0.05
+6081 - Westin Mission Hills Resort                                  0.04
+5012 - Marriott CY - Green Community                                0.04
+9001 - Portland Jetport                                             0.04
+3038 - Renaissance Hotel - Doha                                     0.03
+4016A - Hilton Garden Inn, Clayton State (laundry)                  0.03
+3039 - Marriott CY and MEA - Doha                                   0.03
+3050 - USTA Concessions, Louis Armstrong                            0.03
+3020 - Dane County Regional Airport                                 0.03
+3053 - Dubai Green Community Laundry                                0.03
+7055 - Jumeirah Etihad                                              0.02
+21022 - Courtard Timehri - See folder 23049                            0
+3050 - USTA - Louis Armstrong                                          0
