@@ -1,0 +1,7 @@
+General notes doc for things I should remember about my configs: 
+
+Home:
+
+Work:
+	Nvim config is at Onedrive/Clones/kickstart.nvim 
+	- shortcut to this folder at C:/users/jgemma/appdata/local/nvim
